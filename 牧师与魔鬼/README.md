@@ -1,0 +1,1 @@
+把Controler和Model放在主摄像机，View放在Empty对象即可运行游戏。
